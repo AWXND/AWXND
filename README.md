@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AWXND
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Multi-Platform developer
 - 🌱 I’m currently learning Universitas Khairun
 - 💞️ I’m looking to collaborate on Anyone
 
